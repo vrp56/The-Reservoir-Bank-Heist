@@ -11,7 +11,7 @@ When you load into the environment you will see 6 screens in front of you in a v
 https://user-images.githubusercontent.com/38020844/161817385-33f94799-dafc-4325-b871-0ab38a83c36e.mp4
 
 # Installation
-To play the game on an Oculus Quest 2, load the .apk file found [here](https://drive.google.com/file/d/1Ps-NvHDaVKO5_68R00lZO9r8EK1eF6kU/view?usp=sharing)
+To play the game on an Oculus Quest 2, load the .apk file found [here](https://drive.google.com/file/d/145v4cceMG1p4OtD9SJ0JLFq6fMnFJkan/view?usp=sharing)
 # Future Work
 - Marking guard paths and blind spots
 - Guiding team through bank using marked paths
